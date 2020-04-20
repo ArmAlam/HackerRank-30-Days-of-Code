@@ -1,1 +1,1 @@
-HackerRank 30 Days of Code solutions  using CPP
+HackerRank 30 Days of Code solutions  using C & CPP
